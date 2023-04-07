@@ -17,16 +17,16 @@ Reference:
 
 """
 
-__author__ = "Kyungpyo Kim"
-__authors__ = ["Kyungpyo Kim"]
-__contact__ = "kyungpyo.kim@sapeon.com"
+__author__ = "Dong HE"
+__authors__ = ["Dong HE","Kyungpyo Kim"]
+__contact__ = "dhe@sapeon.com"
 __copyright__ = "Copyright 2023, SAPEON Inc."
-__credits__ = ["Kyungpyo Kim"]
+__credits__ = ["Dong HE","Kyungpyo Kim"]
 __date__ = "2023/03/08"
 __deprecated__ = False
-__email__ = "kyungpyo.kim@sapeon.com"
+__email__ = "dhe@sapeon.com"
 __license__ = "SAPEON Inc."
-__maintainer__ = "kyungpyo kim"
+__maintainer__ = "Dong HE"
 __status__ = "Development"  # "Production" "Prototype" "Development"
 __version__ = "0.0.1"
 
